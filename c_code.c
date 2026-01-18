@@ -5,7 +5,7 @@ int main()
 {
 
 	char name[50];
-	printf("what's ur name gurl? : ");
+	printf("what's ur name pretty gurl? : ");
 	scanf("%s",name);
 	printf("\nnice to meet u, %s ",name);
 	return 0 ;
